@@ -1,0 +1,12 @@
+__pycache__
+.idea
+.venv
+*.sqlite3
+venv/
+env/
+logs/
+.cache/
+.tmp/
+temp/
+.env
+old.md
